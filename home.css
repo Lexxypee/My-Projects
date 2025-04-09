@@ -1,0 +1,93 @@
+.monday{
+    color: brown;
+   background-image: url(image/IMG_0002.JPG);
+   background-size: cover;
+background-repeat: no-repeat;
+    border: 2px solid red;
+    border-radius: 8px;
+    padding-left: 400px;
+    padding-right: 40px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    /* margin-top: 100px;
+    margin-bottom: 50px;
+    margin-right: 60px;
+    margin-left: 70px; */
+    margin: 40px 70px 40px 30px;
+    border-right: 8px solid black;
+    border-left: 7px solid blue;
+    border-top: 6px dashed green;
+    border-bottom: 5px dashed brown;
+    border-radius: 6px;
+    text-align: left;
+    text-decoration: dotted;
+    text-transform: uppercase;
+    text-overflow: inherit;
+    text-shadow: 19px black;
+    font-family: sans-serif;
+    font-weight: bold
+}
+a{
+    text-decoration: wavy;
+    color: coral;
+}
+h2{
+    color:blue;
+}
+p{
+    color: rgb(51, 119, 51);
+}
+.login-container{
+    background-color: #fff;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0);
+    border-radius: 8px;
+    padding-right: 20px;
+    max-width: 350px;
+    width: 100%;
+    padding: 50px;
+    border: 3px solid black;
+   margin-left: 430px;
+}
+h2{
+    text-align: center;
+    margin-bottom: 20px;
+    color:#333;
+}
+.form-group{
+    margin-bottom: 15px;
+}
+.form-group input{
+width: 100%;
+font-size: 18px;
+background-color: #f9f9f9;
+border-radius: 8px;
+padding: 10px;
+border: 1px solid #ccc;
+}
+.form-group input:focus{
+outline: none;
+border-color: #007bff;
+background-color: #fff;
+}
+
+.form-group button{
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    font-size: 14px;
+    border: none;
+     border-radius: 8px;
+cursor: pointer;
+     transition: background-color 0.3s ease;
+}
+ .form-group button:hover{
+     background-color: #091c31;
+ }
+
+
+
+
+
+
+
